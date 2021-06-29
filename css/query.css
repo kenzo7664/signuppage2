@@ -156,6 +156,14 @@
         font-size: 15px;
     }
 
+    i.fa {
+        visibility: hidden;
+        color: black;
+        position: absolute;
+        top: 15px;
+        right: 64px;
+    }
+
     .container {
         padding-top: 20%;
         padding-left: 21%;
