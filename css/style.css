@@ -42,7 +42,7 @@ i.fa{
 
 .SUBtext{
     font-size: 55px;
-    width: 50%;
+    width: 56%;
     color: white;
     margin: 20% 0% 0% 15%;
 }
@@ -117,6 +117,7 @@ i.fa{
     padding-bottom: 3%;
     border-radius: 10px;
     color: white;
+    outline: none;
 }
 
 .spn{
